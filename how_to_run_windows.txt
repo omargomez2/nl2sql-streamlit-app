@@ -5,3 +5,4 @@ Example of questions:
 What are the names and salaries of all employees?
 List employees and their departments
 Show all employees with salary above 60000
+Average salary by department
